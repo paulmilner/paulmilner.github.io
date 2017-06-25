@@ -254,7 +254,7 @@ ul.todo#completed:after {
   color: #aaa;
 }
 
-div#attribution {
+div.attribution {
   width: 100%;
   display: block;
   text-align: center;
